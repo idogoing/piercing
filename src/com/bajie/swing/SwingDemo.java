@@ -94,7 +94,7 @@ public class SwingDemo extends JFrame{
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setTitle("简孚网络科技核销专用软件");
+		frame.setTitle("核销专用软件");
 		frame.setBounds(100, 100, 742, 494);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
